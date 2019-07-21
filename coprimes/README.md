@@ -1,8 +1,8 @@
-= coprimes
+# coprimes
 find coprimes to integer X
 https://en.wikipedia.org/wiki/Coprime_integers
 
-= usage
+# usage
 ```
 $ echo "13" | ./coprimes.pl
 2
