@@ -1,19 +1,16 @@
-# coprimes
-find coprimes to integer X
-https://en.wikipedia.org/wiki/Coprime_integers
+# NAME
+  coprimes -- prints out all coprimes integers from 2 to N
 
-# usage
+# SYNOPSIS
+  $0 integer
+
+# DESCRIPTION
+  https://en.wikipedia.org/wiki/Coprime_integers
+
+# EXAMPLES
 ```
-$ echo "13" | ./coprimes.pl
-2
+$ ./coprimes.pl 10
 3
-4
-5
-6
 7
-8
 9
-10
-11
-12
 ```
