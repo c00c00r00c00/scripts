@@ -2,7 +2,7 @@
   coprimes -- prints out all coprimes integers from 2 to N
 
 # SYNOPSIS
-  $0 integer
+  ./coprimes.pl integer
 
 # DESCRIPTION
   https://en.wikipedia.org/wiki/Coprime_integers
